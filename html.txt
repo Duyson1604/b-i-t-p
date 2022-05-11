@@ -1,8 +1,0 @@
-
-public class  nguyenduyson_App
-{
-	public static void main(String[] args) 
-	   {
-		   System.out.println(" nguyen duy son  Java! ");
-	   }
-} 
